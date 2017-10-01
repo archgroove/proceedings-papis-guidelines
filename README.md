@@ -13,6 +13,8 @@ Some examples of accepted papers from previous years are:
 * Gutierrez, 2016 (Research paper), http://proceedings.mlr.press/v67/gutierrez17a/gutierrez17a.pdf
 * Cetinsoy, 2015 (Review paper), http://proceedings.mlr.press/v50/cetinsoy15.pdf
 
+Submitted papers should be 4-8 pages in length.
+
 ## Key submission dates
 
 10 November 2017: Paper submissions due
