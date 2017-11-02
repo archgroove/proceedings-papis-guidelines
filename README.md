@@ -4,7 +4,7 @@
 
 PAPIs '17 Proceedings will be published in Proceedings of Machine Learning Research (the conference proceedings journal of JMLR), so please prepare a paper at a standard suitable for JMLR. General guidelines for the scope, content and originality of papers in JMLR are available here: http://www.jmlr.org/author-info.html, however the submission procedure will differ slightly for the proceedings.
 
-We are accepting three types of paper, including industrial experience reports, research papers and review papers.
+We are accepting three types of paper, including industrial experience reports, research papers, technical reports and review papers.
 
 Some examples of accepted papers from previous years are:
 
